@@ -7,7 +7,6 @@ import ProductList from "./products/ProductList";
 function App() {
   return (
     <Template>
-      "xd teste t"
       <Switch>
         <Route path="/products" exact>
           <ProductList />
